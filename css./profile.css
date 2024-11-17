@@ -6,16 +6,13 @@
     align-items: center;
     justify-content: center;
 }
-
 .main-content .profile form{
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 .main-content .profile form .box{
-    /* border: 1px solid lightgray; */
     display: flex;
     width: 70%;
     height: 500px;
@@ -23,20 +20,17 @@
     border-radius: 10px;
     align-items: center;
 }
-
 .main-content .profile form .box .left{
     display: flex;
     flex-direction: column;
     width: 50%;
     padding: 0 2rem;
 }
-
 .main-content .profile form .box .left label, .main-content .profile .box .right label{
     font-size: 16px;
     margin-bottom: 0.5rem;
     font-weight: 200;
 }
-
 .main-content .profile form .box .left input, .main-content .profile .box .right input{
     padding: 0.5rem;
     margin-bottom: 1rem;
@@ -45,14 +39,12 @@
     background-color: rgb(236, 236, 236);
     outline: none;
 }
-
 .main-content .profile form .box .right{
     display: flex;
     flex-direction: column;
     width: 50%;
     padding: 0 2rem;
 }
-
 .main-content .profile form .box .right textarea{
     border: none;
     background-color: rgb(236, 236, 236);
@@ -61,7 +53,6 @@
     padding: 1rem;
     outline: none;
 }
-
 .main-content .profile form .box .right select{
     width: 40%;
     margin-bottom: 2rem;
@@ -71,7 +62,6 @@
     border-radius: 10px;
     outline: none;
 }
-
 .main-content .profile form .box .right button{
     padding: 0.5rem;
     border-radius: 10px;
@@ -80,18 +70,14 @@
     background-color: rgb(70, 168, 70);
     cursor: pointer;
 }
-
 .main-content .profile form .box .right button:hover{
     background-color: rgb(61, 147, 61);
 }
-
 @media screen and (max-width: 768px){
-
     .main-content .profile{
         padding: 0;
         margin: 4rem 0;
     }
-
     .main-content .profile form .box{
         width: 100%;
         flex-direction: column;
@@ -99,7 +85,6 @@
         padding: 1rem;
         border: none;
     }
-
     .main-content .profile form .box .left, .main-content .profile form .box .right{
         width: 100%;
     }
