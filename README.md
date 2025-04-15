@@ -1,4 +1,3 @@
-# Group-Assignment-Frontend-1-HTML-CSS-and-JavaScript
 Group assignment for the course Frontend 1 – HTML, CSS och JavaScript at Nackademin
 
 Assignement:  
