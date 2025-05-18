@@ -1,6 +1,3 @@
-**En responsiv webbapplikation utvecklad som en del av kursen Frontend 1 vid Nackademin.**
-Syftet är att bygga en interaktiv och responsiv webbapplikation med hjälp av grundläggande webbutvecklingstekniker.
-
 ## Uppgiftsbeskrivning
 Projektet går ut på att skapa en webbapplikation som demonstrerar kunskaper i att:
 - Strukturera innehållet på webbsidor.
