@@ -13,7 +13,7 @@ Projektet går ut på att skapa en webbapplikation som demonstrerar kunskaper i 
 
 ## Använda tekniker
 - HTML 
-- CSS & HTML 
+- CSS 
 - Javascript 
 
 
